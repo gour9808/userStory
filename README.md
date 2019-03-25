@@ -19,6 +19,6 @@
 
    #step 6:
    upload text file which i am attaching
-   
+
    #step 7:
-   choose file and after choosing file show parsed data gets enabled and then check on developer console which shows the parsed data.
+   choose file and after choosing file show parsed data gets enabled and then click on it.

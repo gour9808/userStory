@@ -10,6 +10,7 @@ export class AppComponent {
   fileText: any;
   data: any;
   isLoading = false;
+  parsed: any;
 
   constructor() {
   }
@@ -126,7 +127,7 @@ export class AppComponent {
   }
 
   segment() {
-    this.get7Segments(this.data);
+   this.parsed =  this.get7Segments(this.data);
   }
 }
 
